@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2524fd3-5166-4188-9e51-a6b6b5858629" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studentstudyportal-main/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentstudyportal-main/studentstudyportal/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/studentstudyportal/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +23,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

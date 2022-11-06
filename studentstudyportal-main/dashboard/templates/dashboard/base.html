@@ -7,7 +7,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>PupilEasy</title>
+  <title>Student-dashboard</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
@@ -16,10 +16,11 @@
   <link rel="stylesheet" href="{% static 'css/main.css' %}" />
 </head>
 
-<body>
-  <header>
-    <nav class="navbar navbar-expand-lg navbar-dark  fixed-top"  style="background-color: #e3f2fd;">
-      <div class="container-fluid bg-secondary">
+<body style="background-image: url(https://img.rawpixel.com/private/static/images/website/2022-05/rm218batch9-aum-05_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=6f0cc260be04901243c5a643ef5429ec);
+background-repeat: no-repeat; background-size: 100% 100%; overflow-x: hidden; background-repeat: no-repeat;">
+  <header style="padding-bottom:30px">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" style="background-color: rgb(55, 51, 51) !important;" >
+      <div class="container-fluid">
         <a class="navbar-brand" href="{% url 'home' %}">PupilEasy</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,6 +73,7 @@
       </div>
     </nav>
   </header>
+
 
   <br /><br />
   <main>

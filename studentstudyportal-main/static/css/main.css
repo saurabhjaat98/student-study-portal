@@ -6,6 +6,7 @@ html {
     width: 100%;
 }
 
+
 main {
     font-family: Barlow, Quicksand, Rubik, sans-serif, serif, 'Times New Roman', Times, serif !important;
 }
@@ -19,14 +20,14 @@ footer {
 }
 
 .navbar {
-    background-color: rgb(201, 0, 0) !important;
+    background-color: rgb(55, 51, 51) !important;
+    padding: 20px;
 
     /* background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%) !important; */
 }
 
 .card {
-    box-shadow: 15px 15px 10px rgb(78, 77, 77);
-
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
 
 
@@ -117,11 +118,13 @@ body {
     overflow-x: hidden;
     height: 100%;
     width: 100%;
+    padding-top:50px;
 }
 
 body {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(255, 255, 255, 0.5));
-    /*background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)*/
+    background-image: url("https://img.rawpixel.com/private/static/images/website/2022-05/rm218batch9-aum-05_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=6f0cc260be04901243c5a643ef5429ec");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     overflow-x: hidden;
     background-repeat: no-repeat;
 }
