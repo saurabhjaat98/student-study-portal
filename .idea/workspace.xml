@@ -4,8 +4,6 @@
     <list default="true" id="c2524fd3-5166-4188-9e51-a6b6b5858629" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/dashboard/templates/dashboard/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studentstudyportal-main/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/studentstudyportal-main/static/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
